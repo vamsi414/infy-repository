@@ -1,3 +1,4 @@
-Hi vamsi krishna 
-how r u 
-where  ru from 
+class vamsi 
+{
+  publict static void main []
+}
